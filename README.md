@@ -1,4 +1,4 @@
-# DDoS Attack API
+# ZefferApi 👍🏿
 
 ## Installation
 
