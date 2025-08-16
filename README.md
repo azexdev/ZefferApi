@@ -6,7 +6,7 @@ To use this API, you will need to have the following installed:
 
 - PHP with the `ssh2` module enabled
 - A server or VPS with the necessary DDoS attack scripts (e.g., `ERROR`, `STCP`, `SSDP`, etc.)
-- or use .sh script 👍🏿
+- or use .pl script 👍🏿
 
 ## Usage
 
